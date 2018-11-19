@@ -3,13 +3,13 @@ Yii2 Jquery Fix Clone
 This is adaptation [jquery.fix.clone.js](https://github.com/spencertipping/jquery.fix.clone) for Yii2.
 
 Installation
-------------
-
-### Install With Composer
+------------------------------------
 
 The preferred way to install this extension is through [composer](http://getcomposer.org/download/).
 
-Either run
+#### Install With Composer
+
+Run
 
 ```
 php composer.phar require kosv/yii2-jquery-fix-clone "~1.0"
