@@ -1,0 +1,26 @@
+{
+  "name": "kosv/yii2-jquery-fix-clone",
+  "description": "Asset extension for fix $.clone() method.",
+  "keywords": ["yii2", "jquery", "jquery.fix.clone", "spencertipping", "extension", "kosv"],
+  "homepage": "https://github.com/Konstantin-Vl/yii2-jquery-fix-clone.git",
+  "type": "yii2-extension",
+  "license": "MIT",
+  "minimum-stability": "stable",
+  "version": "1.0",
+  "authors": [
+    {
+      "name": "Konstantin Voloshchuk",
+      "email": "kosv.dev@gmail.com",
+      "homepage": "https://github.com/Konstantin-Vl"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "yiisoft/yii2": "~2.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Kosv\\jFixClone\\": "src/"
+    }
+  }
+}
